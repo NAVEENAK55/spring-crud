@@ -1,0 +1,7 @@
+com\kgisl\webapp1\dao\ContactDAO.class
+com\kgisl\webapp1\model\Contact.class
+com\kgisl\webapp1\MvcConfiguration.class
+com\kgisl\webapp1\dao\ContactDAOImpl$2.class
+com\kgisl\webapp1\dao\ContactDAOImpl$1.class
+com\kgisl\webapp1\controller\ContactController.class
+com\kgisl\webapp1\dao\ContactDAOImpl.class
